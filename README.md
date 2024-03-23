@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @shreyashetty145
-- 👀 I’m interested in front end development
-- 💞️ I’m looking to collaborate on building websites...
 - 📫 How to reach me 1rn19is145.shreyashetty@gmail.com...
 
 <!---
